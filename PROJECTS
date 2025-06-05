@@ -1,1 +1,15 @@
 The projects I have made or have helped made.
+
+Project Name: Build A Rotom
+Description: The project is made to make a Pixelated Rotom or shiny Rotom
+
+Tools used: I used python and the addon Ultra Karel
+
+What does it do: The code has karol go and around to each pixel and fill it with a specified color, which is in a 20 by 20 grid.
+There is a 20% chance that the Rotom will be shiny.
+when the code is finished it should resemble a shiny Rotom or a Rotom.
+
+Challenges: There was a struggle getting the 20% chance to work, as everytime I entered the code it just gave me a normal Rotom.
+
+This is the code to the project.
+https://codehs.com/sandbox/id/new-sandbox-program-BQkH2s
