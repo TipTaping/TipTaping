@@ -1,7 +1,19 @@
+The projects I have made or have helped made.
 
+Project Name: Rock, Papper, Scissors
+Description: You are tasked with playing against a computer in rock, paper, scissors
 
+Tools used: I used python
 
+What does it do: The code is made by having the computer choose a random number.
+1 would be equal to Rock, 2 would be paper, and S would be scissors.
+Then the player will choose R as in rock, P as in paper, or S as in scissors.
+there can be ties if the computer and player have the moves, like paper and paper.
+points will be given to who ever won.
 
+Challenges: I struggled finding how i would compare the computers inputs to the players as they where both strings.
+I orrignally tried to compare numbers to a string but that didnt work.
+I ended up just having them equal something called choice or answer which would see if the inputs were eqaul or not to each other.
 
-
+This is the code to the project.
 https://codehs.com/sandbox/id/new-sandbox-program-I79Z12
