@@ -5,8 +5,8 @@
 
 - Do I enjoy coding?
   I would think I enjoy it, it is fun when I get something to work but, the only time I actally code is if its a late assignment.
-  coding makes things make sense, its just numbers are either a 1's or a 0's all jumbled together that end up
-  telling you that your taxes are overdue and are being band from a game for saying to many friendly words to players. So in-all I think code is fun.
+  coding makes things make sense, its just numbers are either a 1 or a 0 all jumbled together that end up
+  telling you that your taxes are overdue and are being band from a game for saying to many friendly words to players. So in-all I think coding is fun.
   
 - What code do I know?
   I know python and some scratch
